@@ -8,5 +8,6 @@ const TodoApp = dynamic(() => import("./TodoApp"), {
 });
 
 export default function Home() {
+  
   return <TodoApp />;
 }
