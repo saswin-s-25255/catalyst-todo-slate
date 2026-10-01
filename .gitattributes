@@ -1,4 +1,4 @@
 /docs/* linguist-vendored
 *.html linguist-generated
 
-srv/ export-ignore
+src/ export-ignore
